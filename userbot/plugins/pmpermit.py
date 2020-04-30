@@ -18,8 +18,7 @@ USER_BOT_NO_WARN = ("[──▄█▀█▄─────────██ \n�
                     "`Hello, this is X-tra-Telegram Security Service.You have found your way here to my master,`"
                     f"{DEFAULTUSER}'s` inbox.\n\n"
                     "❤️🤍PAID SERVICE AVAILABLE🤍❤️ ONLY FOR MALLUZZ,🚫TIME WASTERS DIRECTLY BLOCKED🚫,Whoever asks for meeting again and again will be directly blocked🚫,I don't do meet up.`\n\n"
-                    "** Send** `/start` ** so that we can decide why you're here.**")
-
+                    
 
 if Var.PRIVATE_GROUP_ID is not None:
     @command(pattern="^.approve ?(.*)")
