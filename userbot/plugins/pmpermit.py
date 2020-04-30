@@ -17,7 +17,7 @@ USER_BOT_WARN_ZERO = "`You were spamming my peru master's inbox, henceforth your
 USER_BOT_NO_WARN = ("[──▄█▀█▄─────────██ \n▄████████▄───▄▀█▄▄▄▄ \n██▀▼▼▼▼▼─▄▀──█▄▄ \n█████▄▲▲▲─▄▄▄▀───▀▄ \n██████▀▀▀▀─▀────────▀▀](tg://user?id=742506768)\n\n"
                     "`Hello, this is X-tra-Telegram Security Service.You have found your way here to my master,`"
                     f"{DEFAULTUSER}'s` inbox.\n\n"
-                    "Leave your name, phone number, address and 10k$ and hopefully you'll get a reply within 2 light years.`\n\n"
+                    "PAID SERVICE AVAILABLE ONLY FOR MALLUZZ,TIME WASTERS DIRECTLY BLOCKED,Whoever asks for meeting again and again will be directly blocked,I don't do meet up.`\n\n"
                     "** Send** `/start` ** so that we can decide why you're here.**")
 
 
